@@ -1,3 +1,5 @@
+package Cwiczenia10;
+
 // Main class to execute the program
 public class FileHandlingTask4 {
     public static void main(String[] args) {
