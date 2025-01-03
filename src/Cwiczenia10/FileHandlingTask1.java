@@ -1,3 +1,5 @@
+package Cwiczenia10;
+
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
